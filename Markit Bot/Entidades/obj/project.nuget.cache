@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "yjsDlvwRlGW8Eg0oJR8nP0O9m+wIkGBR9HnVvjsb6VHPSsXZ59l2LKhkgcM08dmWfqJ1njOeTxUNuCTYEGhylA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danielcavassani\\Desktop\\Markit\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danielcavassani\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\danielcavassani\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\danielcavassani\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\danielcavassani\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\danielcavassani\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

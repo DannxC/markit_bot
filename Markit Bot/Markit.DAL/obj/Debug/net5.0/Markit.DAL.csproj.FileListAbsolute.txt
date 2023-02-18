@@ -1,0 +1,17 @@
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\bin\Debug\net5.0\Markit.DAL.deps.json
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\bin\Debug\net5.0\Markit.DAL.dll
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\bin\Debug\net5.0\ref\Markit.DAL.dll
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\bin\Debug\net5.0\Markit.DAL.pdb
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\bin\Debug\net5.0\Entidades.dll
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\bin\Debug\net5.0\Markit.Utils.dll
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\bin\Debug\net5.0\Entidades.pdb
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\bin\Debug\net5.0\Markit.Utils.pdb
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\obj\Debug\net5.0\Markit.DAL.csproj.AssemblyReference.cache
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\obj\Debug\net5.0\Markit.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\obj\Debug\net5.0\Markit.DAL.AssemblyInfoInputs.cache
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\obj\Debug\net5.0\Markit.DAL.AssemblyInfo.cs
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\obj\Debug\net5.0\Markit.DAL.csproj.CoreCompileInputs.cache
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\obj\Debug\net5.0\Markit.DAL.csproj.CopyComplete
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\obj\Debug\net5.0\Markit.DAL.dll
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\obj\Debug\net5.0\ref\Markit.DAL.dll
+C:\Users\danielcavassani\Desktop\Markit\Markit.DAL\obj\Debug\net5.0\Markit.DAL.pdb

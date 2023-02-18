@@ -1,0 +1,15 @@
+C:\Users\danielcavassani\Desktop\Markit\Markit.Utils\bin\Debug\net5.0\Markit.Utils.deps.json
+C:\Users\danielcavassani\Desktop\Markit\Markit.Utils\bin\Debug\net5.0\Markit.Utils.dll
+C:\Users\danielcavassani\Desktop\Markit\Markit.Utils\bin\Debug\net5.0\ref\Markit.Utils.dll
+C:\Users\danielcavassani\Desktop\Markit\Markit.Utils\bin\Debug\net5.0\Markit.Utils.pdb
+C:\Users\danielcavassani\Desktop\Markit\Markit.Utils\bin\Debug\net5.0\Entidades.dll
+C:\Users\danielcavassani\Desktop\Markit\Markit.Utils\bin\Debug\net5.0\Entidades.pdb
+C:\Users\danielcavassani\Desktop\Markit\Markit.Utils\obj\Debug\net5.0\Markit.Utils.csproj.AssemblyReference.cache
+C:\Users\danielcavassani\Desktop\Markit\Markit.Utils\obj\Debug\net5.0\Markit.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danielcavassani\Desktop\Markit\Markit.Utils\obj\Debug\net5.0\Markit.Utils.AssemblyInfoInputs.cache
+C:\Users\danielcavassani\Desktop\Markit\Markit.Utils\obj\Debug\net5.0\Markit.Utils.AssemblyInfo.cs
+C:\Users\danielcavassani\Desktop\Markit\Markit.Utils\obj\Debug\net5.0\Markit.Utils.csproj.CoreCompileInputs.cache
+C:\Users\danielcavassani\Desktop\Markit\Markit.Utils\obj\Debug\net5.0\Markit.Utils.csproj.CopyComplete
+C:\Users\danielcavassani\Desktop\Markit\Markit.Utils\obj\Debug\net5.0\Markit.Utils.dll
+C:\Users\danielcavassani\Desktop\Markit\Markit.Utils\obj\Debug\net5.0\ref\Markit.Utils.dll
+C:\Users\danielcavassani\Desktop\Markit\Markit.Utils\obj\Debug\net5.0\Markit.Utils.pdb
